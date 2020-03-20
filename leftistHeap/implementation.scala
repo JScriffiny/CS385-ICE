@@ -9,14 +9,12 @@ object mySolution extends App {
   // Shape Invariant:
   //    for each node, the height of the left child >= height of the right child
 
-  def isEmpty: Boolean
   def height: Int
   def insert(x: Int): LHeap
   // and of course there would be more methods...
 }
 
 case object Empty extends LHeap {
-  def isEmpty: Boolean = true
   def height: Int = 0
   def insert(x: Int): LHeap = Node(x, Empty, Empty)
 }
@@ -25,7 +23,6 @@ case class Node(item: Int, left: LHeap, right: LHeap) extends LHeap {
   // cache the height so don't need to recompute it
   private val h: Int = 1 + (left.height max right.height)
 
-  def isEmpty: Boolean = false
   def height: Int = h
   def insert(x: Int): LHeap = {
     if (x > item) Node(x,this,Empty)
