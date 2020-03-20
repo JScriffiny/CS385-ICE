@@ -2,22 +2,22 @@
 [debug] Input file mappings:
 [debug] 	
 [debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes
-[debug] 	mySolution$.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$.class
-[debug] 	mySolution$ConsoleColorise$.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$ConsoleColorise$.class
-[debug] 	mySolution$ConsoleColorise.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$ConsoleColorise.class
-[debug] 	mySolution$delayedInit$body.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$delayedInit$body.class
-[debug] 	mySolution$Empty$.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$Empty$.class
-[debug] 	mySolution$LHeap.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$LHeap.class
-[debug] 	mySolution$Node$.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$Node$.class
-[debug] 	mySolution$Node.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution$Node.class
-[debug] 	mySolution.class
-[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\mySolution.class
+[debug] 	implementation$.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$.class
+[debug] 	implementation$ConsoleColorise$.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$ConsoleColorise$.class
+[debug] 	implementation$ConsoleColorise.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$ConsoleColorise.class
+[debug] 	implementation$delayedInit$body.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$delayedInit$body.class
+[debug] 	implementation$Empty$.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$Empty$.class
+[debug] 	implementation$LHeap.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$LHeap.class
+[debug] 	implementation$Node$.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$Node$.class
+[debug] 	implementation$Node.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation$Node.class
+[debug] 	implementation.class
+[debug] 	  C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\target\scala-2.12\classes\implementation.class
 [debug] Done packaging.

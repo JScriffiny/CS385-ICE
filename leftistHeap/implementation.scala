@@ -1,7 +1,7 @@
 //Name: Jacob Scriffiny
 //File: implementation.scala
 
-object mySolution extends App {
+object implementation extends App {
 
   sealed trait LHeap { // max-oriented leftist heap
   // Order Invariant:
