@@ -1,0 +1,260 @@
+[debug] [watch] [leftistheap / Compile / run] Found inputs: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\*.{java,scala},C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\src\main\java\**\*.{java,scala},C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\src\main\resources\**\*,C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\src\main\scala\**\*.{java,scala},C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\src\main\scala-2.12\**\*.{java,scala}
+[info] 1. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(606c45fd4fd12647e32acb5f57a5c25830c10a50), current stamp: Hash(99d243386d72c49287702570e8b2b94768888ef3))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:05:15.086 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:05:15.086 MT).
+[info] 2. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 16 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(99d243386d72c49287702570e8b2b94768888ef3), current stamp: Hash(a9e2d221ab477a38f9ff3a4a3119adb55f38e70f))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:05:53.699 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:05:53.699 MT).
+[info] 3. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(a9e2d221ab477a38f9ff3a4a3119adb55f38e70f), current stamp: Hash(06af9d620471c3f2c2d1c4661ca9eb67c17730ed))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:01.356 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:01.356 MT).
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 4. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 2 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(06af9d620471c3f2c2d1c4661ca9eb67c17730ed), current stamp: Hash(4bbdb0e5b84803bb539bcf7249552d085d4207ce))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:15.912 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:15.912 MT).
+[info] 5. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 4 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(4bbdb0e5b84803bb539bcf7249552d085d4207ce), current stamp: Hash(4b4d2db9f5065578e985c47aa14f727781de5bef))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:35.927 MT),Trigger)
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:35.927 MT).
+[info] 6. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 2 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(4b4d2db9f5065578e985c47aa14f727781de5bef), current stamp: Hash(742b5ff42894dd7701ce916c1d6a5c743d55f05e))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:41.543 MT),Trigger)
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:06:41.543 MT).
+[info] 7. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 0 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(742b5ff42894dd7701ce916c1d6a5c743d55f05e), current stamp: Hash(86105d14a05009c69afa73d49c86d8724f38525b))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:07:19.467 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:07:19.467 MT).
+[info] 8. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 32 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(86105d14a05009c69afa73d49c86d8724f38525b), current stamp: Hash(74cae08b96a5bc89602e3ef4d29035426d0a58d9))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:07:28.626 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:07:28.626 MT).
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 9. Monitoring source files for leftistheap/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 2 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(74cae08b96a5bc89602e3ef4d29035426d0a58d9), current stamp: Hash(00097efc2743cb5be071261263ff024426045569))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:22:11.931 MT),Trigger)
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:22:11.931 MT).
+[info] 10. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(00097efc2743cb5be071261263ff024426045569), current stamp: Hash(6d3ab2ee5bff392428f7a4ac3a7685eb4221ff20))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:25:37.678 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:25:37.678 MT).
+[info] 11. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(6d3ab2ee5bff392428f7a4ac3a7685eb4221ff20), current stamp: Hash(9f19be4919c8eaff94282890d248698bd831469a))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:46:04.809 MT),Trigger)
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:46:04.809 MT).
+[info] 12. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(9f19be4919c8eaff94282890d248698bd831469a), current stamp: Hash(c4194d0216021165972f4228cb97a02c8c70a803))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:47:10.727 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 11:47:10.727 MT).
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 13. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(c4194d0216021165972f4228cb97a02c8c70a803), current stamp: Hash(1401b10d2fd8b4637497ee9ef40da56fe7d87f46))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:23:21.472 MT),Trigger)
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:23:21.472 MT).
+[info] 14. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 8 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(1401b10d2fd8b4637497ee9ef40da56fe7d87f46), current stamp: Hash(b02af4771dcb7dd4dd2bc4a8ffd21b9663c28144))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:31:41.572 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:31:41.572 MT).
+[info] 15. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(b02af4771dcb7dd4dd2bc4a8ffd21b9663c28144), current stamp: Hash(a1faa5af61293b9f751dfaa2e1cc35d2fa353e58))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:32:56.187 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:32:56.187 MT).
+[info] 16. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(a1faa5af61293b9f751dfaa2e1cc35d2fa353e58), current stamp: Hash(aa467752b352cd2899f6659cdbe3d57d0654be06))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:33:12.709 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:33:12.709 MT).
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 17. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received event for path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Creating update event for modified C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala (previous stamp: Hash(aa467752b352cd2899f6659cdbe3d57d0654be06), current stamp: Hash(81499abb4f659d17abbcb11d0911a18de806326e))
+[debug] Received file event actions: C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala -> Trigger. Returning: (Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:33:40.341 MT),Trigger)
+[info] Build triggered by C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala, 2020-Mar-20 12:33:40.341 MT).
+[debug] leftistheap / Compile / run - Accepted event for C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala
+[debug] Received Update(C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 18. Monitoring source files for leftistheap/run...
+[info]     Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala. This event occurred 1 ms since the last event for this path.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().

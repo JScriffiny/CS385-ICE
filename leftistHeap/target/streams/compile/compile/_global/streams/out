@@ -1,0 +1,40 @@
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:70:3: expected class or object definition
+[error]   val tests = Array[(LHeap,Int,LHeap)](
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:89:3: expected class or object definition
+[error]   def parseLHeap(lheap: LHeap): String = lheap match {
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:103:3: expected class or object definition
+[error]   (1 to 50) foreach(_ => print("-"))
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:104:3: expected class or object definition
+[error]   println("\n#########   TESTING   #########")
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:105:3: expected class or object definition
+[error]   (1 to 50) foreach(_ => print("-"))
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:106:3: expected class or object definition
+[error]   print("\n")
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:107:3: expected class or object definition
+[error]   var testNum = 1
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:108:3: expected class or object definition
+[error]   for (test <- tests) {
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:123:3: expected class or object definition
+[error]   val num = tests.count(test => test._1.insert(test._2) == test._3)
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:124:3: expected class or object definition
+[error]   println("#########   Passed " + num + "/" + tests.length + " tests   #########")
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:125:3: expected class or object definition
+[error]   (1 to 50) foreach(_ => print("-"))
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:126:3: expected class or object definition
+[error]   print("\n")
+[error]   ^
+[error] C:\Users\Jacob\Desktop\USMA\Academics\AY20-2\CS385\CS385-ICE\leftistHeap\implementation.scala:127:1: Unmatched closing brace '}' ignored here
+[error] }
+[error] ^
+[error] 13 errors found
