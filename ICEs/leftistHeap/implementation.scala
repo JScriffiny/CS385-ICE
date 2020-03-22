@@ -28,8 +28,8 @@ case class Node(item: Int, left: LHeap, right: LHeap) extends LHeap {
     if (x > item) Node(x,this,Empty)
     else {
       val temp = right.insert(x)
-      if (temp.height > left.height) Node(item,temp,left)
-      else Node(item,left,temp)
+      if (temp.height > left.height) copy(left=temp,right=left) //Node(item,temp,left)
+      else copy(right=temp) //Node(item,left,temp)
     }
   }
 }
